@@ -1,0 +1,3 @@
+[submodule "InputMappings"]
+	path = InputMappings
+	url = https://github.com/eSqadron/InputMappings.git
