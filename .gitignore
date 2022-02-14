@@ -1,4 +1,6 @@
 .idea/
 __pycache__/
 CAD/OldVersions
+CAD/Bought_parts/OldVersions
+CAD/Archive/OldVersions
 CAD/lockfile.lck
